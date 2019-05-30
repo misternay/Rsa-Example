@@ -1,0 +1,8 @@
+
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›åÀ ¸ˇˇˇˇ8˝î¨‘©-
+?squid:S1170"!Make this final field static too.(≠Å¸Ç8»õç‘©-
+asquid:S3034@">Prevent "int" promotion by adding "& 0xff" to this expression.(¬‰∫⁄¯ˇˇˇˇ8»õç‘©-
+Gsquid:S00108#")Either remove or fill this block of code.(∞Ÿƒ48»õç‘©-
+òsquid:S1192R"uDefine a constant instead of duplicating this literal "invalid characters encountered at end of base64 data" 4 times.(ÂÂÀõ˙ˇˇˇˇ8»õç‘©-
+\squid:S3034t">Prevent "int" promotion by adding "& 0xff" to this expression.(ó©›û8»õç‘©-
+psquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(∂„Ø÷8»õç‘©-
