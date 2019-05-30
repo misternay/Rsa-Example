@@ -11,7 +11,7 @@ JSEncrypt : https://github.com/travist/jsencrypt
 
 > openssl rsa -pubout -in rsa_2048_priv.pem -out rsa_2048_pub.pem
 
+### note : use private_key.pem for JAVA
 
 > openssl pkcs8 -topk8 -inform PEM -in rsa_2048_priv.pem -out private_key.pem -nocrypt 
 
-  note : use private_key.pem for JAVA
